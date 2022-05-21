@@ -13,9 +13,9 @@
 
 ### Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 
--Averange Case 
+- Averange Case 
 
-##[7,3,5,8,2,9,4,15,6] 
+## [7,3,5,8,2,9,4,15,6] 
 ### Dizisinin İnsertion Sort'a göre ilk 4 adımını yazınız.
 
 - [3,7,5,8,2,9,4,15,6]
